@@ -16,7 +16,6 @@ impact of different headlight distributions that imitate HD Matrix headlights in
 
 ```
 AutomatedVehicle/
-├── Unreal5VRProject/       # Scenes and C# scripts for simulation
 └── Demo/                   # Videos and imgs
 ```
 
