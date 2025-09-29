@@ -8,7 +8,7 @@ impact of different headlight distributions that imitate HD Matrix headlights in
 
 - **Goal**: To evaluate how different high-beam and low-beam headlight configurations affect passenger comfort, safety perception, and well-being in various environments.
 - **Method**: Participants experienced automated driving in VR with four lighting configurations across environments like forest, rural roads, fog, and city.
-- **Tech Stack**: Unreal Engine (simulation), Python/R (analysis), VR headset.
+- **Tech Stack**: Unreal Engine (simulation), RoadRunner, C++, Python/R (analysis), VR.
 
 ---
 
@@ -29,9 +29,9 @@ AutomatedVehicle/
 
 ## 📊 Tools Used
 
-- **UNreal Engine 5** for VR development.
+- **Unreal Engine 5, C++,** for VR development.
 - **Python** (pandas, matplotlib) for data wrangling and plots.
-- **R** for statistical analysis and regression.
+- **Matlab** for statistical analysis and regression.
 
 ---
 
